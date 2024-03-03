@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Login_Registration_NetCoreWebApi.props" />
+</Project>
